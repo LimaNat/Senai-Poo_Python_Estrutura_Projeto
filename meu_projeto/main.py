@@ -1,8 +1,8 @@
 import os
 
-from models.endereco import Endereco
-from models.enums.sexo import Sexo
-from models.pessoa import Pessoa
+from meu_projeto.models.endereco import Endereco
+from meu_projeto.models.enums.sexo import Sexo
+from meu_projeto.models.pessoa import Pessoa
 
 os.system("cls || clear")
 
